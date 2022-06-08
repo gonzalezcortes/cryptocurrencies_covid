@@ -8,6 +8,6 @@
 * Python 3.7
 * Numpy, Pandas, Scikit-learn, Scipy
 * Xgboost, Lightgbm, TensorFlow, Keras
-* Matplotlib
+* Matplotlib, SHAP
 
   <p>*Proprietary data is not shown</p>
