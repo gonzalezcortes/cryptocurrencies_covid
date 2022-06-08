@@ -1,7 +1,7 @@
-# cryptocurrencies_covid
 
-A repository to show the code about our research related to the cryptocurrencies prices during the COVID-19 pandemic.
+### A repository to show the code about our research related to the cryptocurrencies prices during the COVID-19 pandemic.
 
-Work in progress.
 
-*Proprietary data is not shown
+<div> Predicting cryptocurrency prices is challenging due to their high volatility. This challenge is more pronounced during economic uncertainty such as the COVID-19 pandemic and the 2008 financial crises. While machine learning models can help in the prediction of cryptocurrency prices, their underlying conditions influencing the outcomes are sometimes unknown and there is a lack of consensus on appropriate techniques to use for technical prediction and circumstances under which they may be suitable. In this paper, we developed and applied an explainable artificial intelligence (AI) model to identify suitable analytical techniques and the optimized set of parameters for technical trading prediction based on the two most valuable cryptocurrencies, namely Bitcoin and Ethereum. The results show that our explainable AI model is capable of efficiently forecasting closing, high and low prices from the previous days during economic uncertainties. Through our model and findings, we contribute critical insights to research and practice, especially in overcoming the challenges of the "black box" nature of machine learning models. Moreover, practitioners such as investors and regulators can utilize our model to efficiently capture changes in different cryptocurrencies' price trends toward improved decision-making during economic uncertainty. </div>
+
+  <p>*Proprietary data is not shown</p>
